@@ -159,8 +159,7 @@ Power BI dashboard provides:
 - Customer Insights  
 - Country-wise Analysis  
 
-![Retail Dashboard](retail_sales_dashboard.png)
-
+<div align="center"> <img src="https://github.com/GauravDhamne/IE2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/retail_sales_dashboard.png"alt="PowerBi Dashboard"> </div>
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
