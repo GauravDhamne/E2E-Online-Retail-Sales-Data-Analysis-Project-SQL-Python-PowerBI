@@ -5,7 +5,6 @@ _Analyzing retail sales, returns, and customer behavior to improve business perf
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
@@ -21,7 +20,7 @@ _Analyzing retail sales, returns, and customer behavior to improve business perf
 - <a href="#future-work">Future Work</a>
 - <a href="#author--contact">Author & Contact</a>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
@@ -35,7 +34,7 @@ The pipeline includes:
 
 The goal is to support **data-driven decision-making** and improve profitability.
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
@@ -49,7 +48,7 @@ Retail businesses face several operational challenges:
 
 This project aims to solve these using analytics and visualization.
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
@@ -65,7 +64,7 @@ This project aims to solve these using analytics and visualization.
 - Country  
 - InvoiceDate  
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
@@ -75,7 +74,7 @@ This project aims to solve these using analytics and visualization.
 - Power BI  
 - Jupyter Notebook  
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
@@ -102,7 +101,7 @@ retail-sales-analysis/
 │ └── dashboard.png
 
 ```
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
@@ -114,7 +113,7 @@ retail-sales-analysis/
 - Separated sales and return transactions  
 - Cleaned invalid or negative entries  
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
@@ -129,7 +128,7 @@ retail-sales-analysis/
 - Extremely high quantities (bulk purchases or returns)  
 - High-value pricing outliers  
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="kpi-analysis--key-insights"></a>KPI Analysis & Key Insights</h2>
 
@@ -149,7 +148,7 @@ retail-sales-analysis/
 - High-value customers drive major revenue  
 - Higher price reduces demand (price sensitivity)  
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
@@ -161,7 +160,7 @@ Power BI dashboard provides:
 - Country-wise Analysis  
 
 <div align="center"> <img src="https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/retail_sales_dashboard.png.png" alt="PowerBI Dashboard"> </div>
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
