@@ -3,7 +3,8 @@
 _Analyzing retail sales, returns, and customer behavior to improve business performance using SQL, Python, and Power BI._
 
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
