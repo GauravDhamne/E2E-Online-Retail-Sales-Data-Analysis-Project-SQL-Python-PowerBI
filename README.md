@@ -1,5 +1,7 @@
 # 📊 E2E-Retail-Sales-Analysis-SQL-Python-PowerBI
 
+<div align="center"> <img src="https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/retail-sales-process-.png" alt="Retail Sales Process"> </div>
+
 _Analyzing retail sales, returns, and customer behavior to improve business performance using SQL, Python, and Power BI._
 
 
