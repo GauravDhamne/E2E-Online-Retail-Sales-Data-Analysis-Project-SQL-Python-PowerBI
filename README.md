@@ -160,6 +160,7 @@ Power BI dashboard provides:
 - Country-wise Analysis  
 
 <div align="center"> <img src="https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/retail_sales_dashboard.png.png" alt="PowerBI Dashboard"> </div>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -186,6 +187,7 @@ File-3-KPI_Analysis.ipynb
 ```
 dashboard/Sales_Analysis_Dashboard.pbix
 ```
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
@@ -196,6 +198,8 @@ dashboard/Sales_Analysis_Dashboard.pbix
 - Improve inventory management
 - Expand into high-performing regions
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2><a class="anchor" id="future-work"></a>Future Work</h2>
 
 - Build predictive models for sales and returns
@@ -203,6 +207,8 @@ dashboard/Sales_Analysis_Dashboard.pbix
 - Develop real-time dashboards
 - Apply machine learning for return prediction
 - Integrate customer feedback data
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
