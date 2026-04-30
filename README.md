@@ -19,7 +19,7 @@ _Analyzes retail sales, returns, and customer behavior to generate insights that
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#results">Results</a>
-- <a href="#conclusion">Conclusion</a>
+- <a href="#conclusion">🧾 Conclusion</a>
 - <a href="#future-work">Future Work</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -211,7 +211,7 @@ pip install pandas numpy matplotlib seaborn
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2><a class="anchor" id="author--contact"></a>📊 Results</h2>
+<h2><a class="anchor" id="author--contact"></a>Results</h2>
 - Successfully processed and analyzed 500K+ retail transactions to extract meaningful insights
 - Identified clear monthly sales trends and seasonal demand patterns
 - Calculated key KPIs including total sales, return rate, revenue, orders, and customer metrics
