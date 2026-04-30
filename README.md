@@ -261,5 +261,4 @@ Gaurav Dhamne
 💻 GitHub: https://github.com/GauravDhamne
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
