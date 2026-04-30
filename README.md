@@ -190,17 +190,14 @@ pip install pandas numpy matplotlib seaborn
 ```
 
 3. Open and Run Jupyter Notebook:
-```bash
-Ingestion_DB.ipynb
-File-1-Data_Preperation.ipynb
-File-2-Data_Visualiztion.ipynb
-File-3-KPI_Analysis.ipynb
-```
+- `Ingestion_DB.ipynb`
+- `File-1-Data_Preperation.ipynb`
+- `File-2-Data_Visualiztion.ipynb`
+- `File-3-KPI_Analysis.ipynb`
 
 4. Open Power BI Dashboard:
-```
-dashboard/Sales_Analysis_Dashboard.pbix
-```
+- `dashboard/Sales_Analysis_Dashboard.pbix`
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
