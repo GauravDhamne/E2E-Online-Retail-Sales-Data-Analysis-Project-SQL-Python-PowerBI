@@ -19,7 +19,7 @@ _Analyzes retail sales, returns, and customer behavior to generate insights that
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#results">Results</a>
-- <a href="#conclusion">🧾 Conclusion</a>
+- <a href="#conclusion">Conclusion</a>
 - <a href="#future-work">Future Work</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -222,7 +222,7 @@ pip install pandas numpy matplotlib seaborn
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2><a class="anchor" id="author--contact"></a>🧾 Conclusion</h2>
+<h2><a class="anchor" id="author--contact"></a>Conclusion</h2>
 
 This project demonstrates an end-to-end data analysis workflow, from data ingestion and cleaning to visualization and KPI evaluation. The analysis reveals strong sales performance with manageable return rates, while also highlighting key areas such as high-return products and operational inefficiencies that affect revenue.
 
