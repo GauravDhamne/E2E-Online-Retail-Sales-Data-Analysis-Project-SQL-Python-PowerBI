@@ -259,3 +259,8 @@ Gaurav Dhamne
 🔗 LinkedIn: http://linkedin.com/in/gɑurɑv-dhɑmne-14a4aa281
 
 💻 GitHub: https://github.com/GauravDhamne
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
