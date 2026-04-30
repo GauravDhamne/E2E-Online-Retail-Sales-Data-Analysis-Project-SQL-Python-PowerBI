@@ -18,8 +18,8 @@ _Analyzes retail sales, returns, and customer behavior to generate insights that
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#result">Result</a>
-- <a href="#conclusion">Conlcusion</a>
+- <a href="#results">Results</a>
+- <a href="#conclusion">Conclusion</a>
 - <a href="#future-work">Future Work</a>
 - <a href="#author--contact">Author & Contact</a>
 
