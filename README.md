@@ -213,11 +213,17 @@ pip install pandas numpy matplotlib seaborn
 
 <h2><a class="anchor" id="author--contact"></a>Results</h2>
 - Successfully processed and analyzed 500K+ retail transactions to extract meaningful insights
+
 - Identified clear monthly sales trends and seasonal demand patterns
+  
 - Calculated key KPIs including total sales, return rate, revenue, orders, and customer metrics
+  
 - Found that a small set of products contributes significantly to total returns, indicating specific problem areas
+  
 - Observed that return rates, though relatively low, have a measurable impact on overall profitability
+  
 - Detected price sensitivity patterns, where higher prices tend to reduce purchase quantity
+  
 - Built an interactive Power BI dashboard to visualize performance and support decision-making
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
