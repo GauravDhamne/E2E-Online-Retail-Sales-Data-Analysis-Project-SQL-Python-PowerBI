@@ -1,4 +1,4 @@
-# 📊 E2E-Retail-Sales-Analysis-SQL-Python-PowerBI
+# 📊 E2E-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI
 
 <div align="center"> <img src="https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/retail-sales-process-.png" alt="Retail Sales Process"> </div>
 
@@ -81,26 +81,37 @@ This project aims to solve these using analytics and visualization.
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-retail-sales-analysis/
+E2E-Retail-Sales-Analysis/
 │
-├── README.md
-├── requirements.txt
-├── Project_Report.pdf
-│
-├── data/
-│ └── online_retail.csv
-│
-├── notebooks/
-│ └── analysis.ipynb
-│
-├── sql/
-│ └── queries.sql
-│
-├── dashboard/
+├── Dashboards/
+│ ├── Retail_Sales_&_Return_Analysis.pbix
 │ └── Sales_Analysis_Dashboard.pbix
 │
-├── images/
-│ └── dashboard.png
+├── Data/
+│ ├── clean_retail_online_sales.csv
+│ └── online_retail.csv
+│
+├── Images/
+│ ├── Data_Preperation.png
+│ ├── Data_Visualization.png
+│ ├── Database_ingestion.png
+│ ├── KPI_Analysis.png
+│ ├── System-Architecture-Diagram.jpg
+│ ├── retail-sales-process.png
+│ └── retail_sales_dashboard.png
+│
+├── Notebook/
+│ ├── File-1-Data_Preperation.ipynb
+│ ├── File-2-Data_Visualization.ipynb
+│ └── File-3-KPI_Analysis.ipynb
+│
+├── Output/
+│ └── Project_Report.pdf
+│
+├── Scripts/
+│ └── Ingestion_DB.py
+│
+└── README.md
 
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -199,6 +210,25 @@ dashboard/Sales_Analysis_Dashboard.pbix
 - Target high-value customers for retention
 - Improve inventory management
 - Expand into high-performing regions
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2><a class="anchor" id="author--contact"></a>📊 Results</h2>
+- Successfully processed and analyzed 500K+ retail transactions to extract meaningful insights
+- Identified clear monthly sales trends and seasonal demand patterns
+- Calculated key KPIs including total sales, return rate, revenue, orders, and customer metrics
+- Found that a small set of products contributes significantly to total returns, indicating specific problem areas
+- Observed that return rates, though relatively low, have a measurable impact on overall profitability
+- Detected price sensitivity patterns, where higher prices tend to reduce purchase quantity
+- Built an interactive Power BI dashboard to visualize performance and support decision-making
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2><a class="anchor" id="author--contact"></a>🧾 Conclusion</h2>
+
+This project demonstrates an end-to-end data analysis workflow, from data ingestion and cleaning to visualization and KPI evaluation. The analysis reveals strong sales performance with manageable return rates, while also highlighting key areas such as high-return products and operational inefficiencies that affect revenue.
+
+By leveraging data-driven insights, the project shows how businesses can improve product quality, optimize inventory, and better understand customer behavior. The use of visualizations and dashboards makes the findings clear and actionable, supporting more informed and strategic business decisions.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
