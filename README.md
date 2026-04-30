@@ -2,8 +2,7 @@
 
 <div align="center"> <img src="https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/retail-sales-process-.png" alt="Retail Sales Process"> </div>
 
-_Analyzing retail sales, returns, and customer behavior to improve business performance using SQL, Python, and Power BI._
-
+_Analyzes retail sales, returns, and customer behavior to generate insights that improve business performance using SQL, Python, and Power BI.._
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -19,6 +18,8 @@ _Analyzing retail sales, returns, and customer behavior to improve business perf
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#result">Result</a>
+- <a href="#conclusion">Conlcusion</a>
 - <a href="#future-work">Future Work</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -180,7 +181,7 @@ Power BI dashboard provides:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/retail-sales-analysis.git
+https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI
 ```
 
 2. Install Dependencies:
@@ -188,7 +189,7 @@ git clone https://github.com/your-username/retail-sales-analysis.git
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. Run Jupyter Notebook:
+3. Open and Run Jupyter Notebook:
 ```bash
 Ingestion_DB.ipynb
 File-1-Data_Preperation.ipynb
@@ -229,6 +230,8 @@ dashboard/Sales_Analysis_Dashboard.pbix
 This project demonstrates an end-to-end data analysis workflow, from data ingestion and cleaning to visualization and KPI evaluation. The analysis reveals strong sales performance with manageable return rates, while also highlighting key areas such as high-return products and operational inefficiencies that affect revenue.
 
 By leveraging data-driven insights, the project shows how businesses can improve product quality, optimize inventory, and better understand customer behavior. The use of visualizations and dashboards makes the findings clear and actionable, supporting more informed and strategic business decisions.
+
+This project showcases practical application of data analytics tools including SQL, Python, and Power BI in solving real-world business problems.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
